@@ -128,7 +128,7 @@ nav img{
 }
 
 .txtcontainer{
-  background-image: url(img/foto-de-tomates-na-estufa.jpg.png);
+  background-image: url(/img/foto-de-tomates-na-estufa.jpg.png);
   background-size: cover;
   width: 800px;
   padding: 40px;
